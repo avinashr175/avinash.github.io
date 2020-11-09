@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Avinash Reddy"
 title_separator          : "-"
 name                     : &name "Avinash"
-description              : &description "I am a graduate student in the ECE department at University of California San Diego. Prior to this, I obtained my undergraduate degree at Indian Institute of Technology Hyderabad. I have spent my childhood in Mumbai and hail from Nellore district of Andhra Pradesh."
+description              : &description ""
 url                      : https://avinashr175.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avinashr175/avinashr175.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "avinashr175"
   google_plus      :
   keybase          :
   instagram        :

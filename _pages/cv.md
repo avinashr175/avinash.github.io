@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech in Electrical Engineering, Indian Institute of Technology, 2019
-  * Minor computer science and engineering
+  * Minor in computer science and engineering
 * M.S. in Electrical and Computer Engineering, UCSD, 2021 (expected)
 
 Work experience

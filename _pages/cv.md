@@ -15,26 +15,24 @@ Education
   * Minor in computer science and engineering
 * M.S. in Electrical and Computer Engineering, UCSD, 2021 (expected)
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Autonomous systems and sensor processing intern
+  * MathWorks
+  * Developed a module in MATLAB for multi-object tracking using Kalman filter in 3D point clouds (Lidar data).
+  * Investigated the performance of variants of the Kalman filter including the extended Kalman filter (EKF) and unscented kalman filter (UKF) in different driving scenarios.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Image Processing and Computer Vision Toolbox Intern
+  * FOSSEE, IIT Bombay
+  * Open source development of Scilab Image Processing and Computer Vision Toolbox. ([project repo](https://github.com/avinashr175/FOSSEE-Image-Processing-Toolbox))
   
-Skills
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C 
+* Python 
+  * OpenCV, CVXPY, NumPy, Pandas, PyTorch, SciPy
+* C++
+* MATLAB
 
 <!---
 Publications
